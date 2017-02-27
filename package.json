@@ -6,6 +6,9 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "signalmaster": "andyet/signalmaster"
+    "signalmaster": "skonb/signalmaster"
+  },
+  "devDependencies": {
+    "node-monkey": "^1.0.0-beta.4"
   }
 }
