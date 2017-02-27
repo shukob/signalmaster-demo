@@ -16,5 +16,10 @@
     }
   ],
   "turnservers": [
+    {
+      "urls": ["turn:numb.viagenie.ca"],
+      "credential": "digirock20170227",
+      "username": "skonb@icloud.com"
+    }
   ]
 }
